@@ -1,0 +1,64 @@
+body {
+    background-color: #ffd56b;
+    font-family: 'Arvo', serif;
+}
+.div1{
+    padding:3% 14%;
+}
+h1{
+    padding-top:20%; 
+    color:#564a4a;
+}
+.p1{
+    font-size:1.2em;
+    color:#564a4a;
+}
+.order_button{
+    margin:10px;
+}
+.div2{
+    padding:4% 4%;
+    background-color: #eedcca;
+    text-align:center;
+}
+.offer_img{
+    width:8em;
+    height:8em;
+}
+.p2 {
+    font-size:1.1em;
+    color:#564a4a;
+}
+h5{
+    padding: 1em;
+}
+.img1{
+    height:500px;
+    width:500px;
+    padding:1em;
+    position:relative;
+}
+h2{
+    text-align: center;
+    padding-top: 1em;
+}
+.caption{
+    margin:auto auto;
+    font-size:2em;
+}
+.div3{
+    text-align:center;
+}
+.card-deck{
+    text-align: center;
+}
+.card{
+    background-color: #e68765a9;
+}
+.footer{
+    background-color: #ffd56b;
+    font-family: 'Arvo', serif;
+    text-align: center;
+    font-size:large;
+    padding:1em;
+}
